@@ -47,6 +47,7 @@ class Cliprojunesco::CLI
                 puts "888   888    .d888888Y88  88P88888888888" 
                 puts "Y88b. 888    888  888 Y8bd8P Y8b.    888" 
                 puts " Y888888     Y888888  Y88P    Y8888 888" 
+                puts "                                       "
                 puts "Thanks for coming! I hope you enjoy your trip!"
                 exit
             end 
