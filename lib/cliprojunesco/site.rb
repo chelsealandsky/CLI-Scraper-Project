@@ -6,9 +6,9 @@ class Site
         @name = name
         @info = info
         @@all << self
-    end
-    
-    def self.all
+    end 
+
+    def self.all #class method
         @@all
     end
 end

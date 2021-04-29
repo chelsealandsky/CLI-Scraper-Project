@@ -5,7 +5,7 @@ require_relative "lib/cliprojunesco/version"
 Gem::Specification.new do |spec|
   spec.name          = "cliprojunesco"
   spec.version       = Cliprojunesco::VERSION
-  spec.authors       = ["Chelsea Anne Ashworth"]
+  spec.authors       = ["Chelsea Anne Ashworth  "]
   spec.email         = ["ashworthca@gmail.com"]
 
   spec.summary       = "CLI Scraping Project "
