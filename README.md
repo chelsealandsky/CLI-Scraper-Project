@@ -2,7 +2,6 @@
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/cliprojunesco`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -22,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run ./bin/unesco_run to see a lsit of all 24 UNESCO sites in the US. Follow the prompts to learn more about the sites you are interested in visiting!
 
 ## Development
 
